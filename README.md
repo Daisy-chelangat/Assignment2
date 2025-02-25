@@ -312,20 +312,39 @@ Cost Considerations (for private repositories in large teams):
 
 On GitHub, private repositories may come with a cost for large teams or organizations. While GitHub offers free private repositories for individuals (with a limited number of collaborators), organizations with many private repositories or collaborators may need to pay for GitHub Team or Enterprise plans.
 
-Aspect	                              Public Repository	                                                              Private Repository
+Visibility 
 
-Visibility         	                     Visible to anyone on the internet	                                               Visible only to invited collaborators
+Public Repository	  Visible to anyone on the internet     
+Private Repository     Visible only to invited collaborators
 
-Access Control   	                     Anyone can view and contribute (open-source)                              	  Restricted to specific collaborators
+ Access Control 
+ 
+Public Repositor      Anyone can view and contribute (open-source)
+Private Repository    Restricted to specific collaborators
 
-Ideal For	Open-source projects,          public collaboration	                                                         Private, internal projects, sensitive work
 
-Security                            	Potential for exposure of sensitive info	                                     Controlled access, reduced risk of exposure
+Ideal For
 
-Collaboration	                         Open collaboration with the community	                                          Limited to invited collaborators
+Public Repositor      Open-source projects,
+Private Repository     Private, internal projects, sensitive work
 
-Exposure                                High visibility, can attract external feedback	                                Limited exposure, mainly internal
+Security    
 
+Public Repositor       Potential for exposure of sensitive info
+Private Repository       Controlled access, reduced risk of exposure
+
+collaboration	
+
+Public Repositor         Open collaboration with the community
+Private Repository	       Limited to invited collaborators
+                              
+
+Exposure   
+ 
+
+Public Repositor          High visibility, can attract external feedback
+Private Repository        Limited exposure, mainly internal
+                            
 
 5.Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
