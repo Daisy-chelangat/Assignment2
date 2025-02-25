@@ -34,6 +34,7 @@ se-day-2-git-and-github
 
 
 
+
 3.Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 
