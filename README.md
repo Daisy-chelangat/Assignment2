@@ -8,28 +8,27 @@ se-day-2-git-and-github
         Version control is a system that allows multiple users to collaborate on the same codebase, while keeping track of changes and allowing easy restoration to previous states. Key 
            concepts include:
 
-Version: A snapshot of the codebase at a specific point in time.
-Repository: A central location where all versions of the code are stored.
-Checkout: A local copy of a specific version of the repository.
-Commit: A way to permanently record and label changes to the codebase.
-Branch: An isolated path for development, allowing multiple changes to be worked on simultaneously without affecting other versions.
-Why GitHub is Popular for Version Control
+                Version: A snapshot of the codebase at a specific point in time.
+                Repository: A central location where all versions of the code are stored.
+                Checkout: A local copy of a specific version of the repository.
+                Commit: A way to permanently record and label changes to the codebase.
+                Branch: An isolated path for development, allowing multiple changes to be worked on simultaneously without affecting other versions.
 
-GitHub is a popular tool for version control because it offers:
 
-Collaboration: Allows multiple users to work on the same codebase seamlessly.
-Code hosting: Provides centralized storage for all versions of the code.
-Version tracking: Keeps a complete history of changes, making it easy to track who made what changes and when.
-Branching and merging: Enables developers to create and isolate development branches, merge them back to the main codebase, and resolve conflicts.
-How Version Control Maintains Project Integrity
+      GitHub is a popular tool for version control because it offers:
 
-Version control helps maintain project integrity by:
+               Collaboration: Allows multiple users to work on the same codebase seamlessly.
+               Code hosting: Provides centralized storage for all versions of the code.
+               Version tracking: Keeps a complete history of changes, making it easy to track who made what changes and when.
+               Branching and merging: Enables developers to create and isolate development branches, merge them back to the main codebase, and resolve conflicts.
 
-Preventing code overwrites: Allows multiple users to make changes simultaneously without overwriting each other's work.
-Tracking changes: Provides a detailed history of all modifications, making it easier to identify potential issues.
-Rolling back changes: Allows users to restore previous versions of the codebase in case of errors or changes they wish to revert.
-Enforcing code quality: Can be integrated with tools that enforce coding standards, ensuring consistency and reducing bugs.
-Facilitating collaboration: By tracking changes and maintaining a central repository, version control promotes seamless collaboration between developers.
+     control helps maintain project integrity by:
+
+               Preventing code overwrites: Allows multiple users to make changes simultaneously without overwriting each other's work.
+               Tracking changes: Provides a detailed history of all modifications, making it easier to identify potential issues.
+               Rolling back changes: Allows users to restore previous versions of the codebase in case of errors or changes they wish to revert.
+               Enforcing code quality: Can be integrated with tools that enforce coding standards, ensuring consistency and reducing bugs.
+               Facilitating collaboration: By tracking changes and maintaining a central repository, version control promotes seamless collaboration between developers.
 
 2.Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 
