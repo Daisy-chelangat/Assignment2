@@ -313,11 +313,17 @@ Cost Considerations (for private repositories in large teams):
 On GitHub, private repositories may come with a cost for large teams or organizations. While GitHub offers free private repositories for individuals (with a limited number of collaborators), organizations with many private repositories or collaborators may need to pay for GitHub Team or Enterprise plans.
 
 Aspect	                              Public Repository	                                                              Private Repository
+
 Visibility         	                     Visible to anyone on the internet	                                               Visible only to invited collaborators
+
 Access Control   	                     Anyone can view and contribute (open-source)                              	  Restricted to specific collaborators
+
 Ideal For	Open-source projects,          public collaboration	                                                         Private, internal projects, sensitive work
+
 Security                            	Potential for exposure of sensitive info	                                     Controlled access, reduced risk of exposure
+
 Collaboration	                         Open collaboration with the community	                                          Limited to invited collaborators
+
 Exposure                                High visibility, can attract external feedback	                                Limited exposure, mainly internal
 
 
